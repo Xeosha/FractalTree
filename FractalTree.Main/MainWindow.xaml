@@ -14,7 +14,7 @@
             <TextBox Name="DepthInput" Text="6" Width="80" Margin="0,0,0,10" />
 
             <TextBlock Text="Вероятность ветки (0-1):" />
-            <TextBox Name="ProbabilityInput" Text="0.8" Width="80" Margin="0,0,0,10" />
+            <TextBox Name="ProbabilityInput" Text="0,8" Width="80" Margin="0,0,0,10" />
 
             <TextBlock Text="Базовый угол ветвления:" />
             <TextBox Name="AngleInput" Text="30" Width="80" Margin="0,0,0,10" />
